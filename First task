@@ -1,0 +1,4 @@
+Step 1: The valid numbers will be all positive two-digit integers from 10 - 99.
+Step 2: By way of the logic, we can not take any number below 10 because is not two-digit and we can not take any number above 99 because the number will become three-digit.
+Step 3: We can't use any negative number.
+Summary: The answer is between the integers from 10-99.
